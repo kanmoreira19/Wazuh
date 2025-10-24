@@ -10,13 +10,13 @@ O painel Wazuh é uma interface web flexível e intuitiva para visualizar, anali
 
 O painel do Wazuh permite que os usuários naveguem pelos dados de segurança coletados de dispositivos com e sem agente do Wazuh, além dos alertas gerados pelo servidor Wazuh. Ele inclui painéis para busca de ameaças, detecção de malware, monitoramento de integridade de arquivos, inventário do sistema e conformidade regulatória (por exemplo, PCI DSS, GDPR, HIPAA e NIST 800-53). Você pode gerar relatórios e criar visualizações e painéis personalizados.
 
-![data-visualization1](Images/data-visualization1.png)
+![image-data-visualization1](Images/data-visualization1.png)
 
 #### Monitoramento e configuração de agentes
 
 O painel do Wazuh permite que os usuários gerenciem a configuração do agente e monitorem seu status. Para cada endpoint monitorado, os usuários podem definir quais módulos do agente serão habilitados, quais arquivos de log serão lidos, quais arquivos serão monitorados quanto a alterações de integridade e quais verificações de configuração serão realizadas.
 
-![agents-monitoring1](Images/agents-monitoring1.png)
+![image-agents-monitoring1](Images/agents-monitoring1.png)
 
 #### Gestão de plataforma
 
