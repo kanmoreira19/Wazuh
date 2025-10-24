@@ -18,7 +18,7 @@ Além dos recursos de monitoramento baseados em agentes, a plataforma Wazuh pode
 
 O diagrama abaixo representa os componentes do Wazuh e o fluxo de dados.
 
-![Components_Wwazuh-components-and-data-flow1](Images/wazuh-components-and-data-flow1.png)
+![Components_Wwazuh-components-and-data-flow1](Images/wazuh-components-and-data-flow1.png)  
 
 ___
 [< Introdução](README.md)  
