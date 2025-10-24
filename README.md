@@ -29,9 +29,9 @@ A solução Wazuh é composta por três componentes de plataforma central e um �
 
 Para instalar o Wazuh em sua infraestrutura, consulte as seguintes seções da nossa documentação:
 
-* A [instalação rápida](Instalacao_rapida.md "Instalação Rápida") é uma maneira automatizada de instalar o Wazuh em apenas alguns minutos.
+* A [instalação rápida](Quickstart.md "Instalação Rápida") é uma maneira automatizada de instalar o Wazuh em apenas alguns minutos.
 
-* O [guia de instalação](Guia_instalacao.md) fornece instruções sobre como instalar cada componente central e como implantar os agentes Wazuh.
+* O [guia de instalação](Installation_guide.md) fornece instruções sobre como instalar cada componente central e como implantar os agentes Wazuh.
 
 ___
 [Conhecendo o Wazuh (Componentes) >](Wazuh_Components.md)

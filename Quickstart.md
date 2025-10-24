@@ -67,4 +67,4 @@ Agora que a instalação do Wazuh está pronta, você pode começar a implantar 
 O suporte para os seguintes sistemas operacionais termina no Wazuh 5.0.0: Red Hat 5, CentOS 5, Oracle Linux 5, SUSE Linux Enterprise Server 11, Windows XP, Windows Vista, Windows Server 2003, Solaris, AIX e HP-UX.
 ___
 [< Agente Wazuh](Wazuh_Agent.md "Wazuh Agent")  
-[Guia de Instalação >](Requisitos_indexador.md "Requisitos Indexador")  
+[Guia de Instalação >](Installation_guide.md "Requisitos Indexador")  
