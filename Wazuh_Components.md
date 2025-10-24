@@ -1,8 +1,6 @@
-[Índice](Indice.md)  
-___
-## Conhecendo o Wazuh.
+# Conhecendo o Wazuh
 
-### Componentes.
+## Componentes
 
 A solução Wazuh é baseada no agente Wazuh, que é implantado nos endpoints monitorados, e em três componentes centrais: o servidor Wazuh, o indexador Wazuh e o painel Wazuh.
 

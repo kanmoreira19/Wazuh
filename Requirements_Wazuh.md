@@ -1,11 +1,10 @@
-## Conhecendo o Wazuh.
+# Conhecendo o Wazuh
 
-### Requisitos
+## Requisitos
 
 Abaixo, você encontra uma seção sobre os requisitos necessários para instalar o Wazuh. Ela ajudará você a aprender sobre os requisitos de hardware e os sistemas operacionais suportados para a sua instalação do Wazuh.
 
-
-#### Hardware
+### Hardware
 
 | Agentes | CPU | Memória | Armazenamento(90 dias) |
 | :-: | :-: | - | - |
@@ -21,4 +20,5 @@ Os componentes centrais do Wazuh exigem um processador Intel, AMD ou ARM Linux d
 * CentOS Stream 10
 * Red Hat Enterprise Linux 7, 8, 9, 10
 * Ubuntu 16.04, 18.04, 20.04, 22.04, 24.04  
+
 ___
