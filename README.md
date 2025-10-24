@@ -35,3 +35,5 @@ Para instalar o Wazuh em sua infraestrutura, consulte as seguintes seções da n
 
 ___
 [Conhecendo o Wazuh (Componentes) >](Wazuh_Components.md)
+
+HEXXAOPS
