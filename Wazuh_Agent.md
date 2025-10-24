@@ -42,4 +42,4 @@ Você precisa registrar o agente Wazuh antes de conectá-lo ao servidor Wazuh pe
 
 ___
 [< Painel Wazuh](Wazuh_Indexer.md "Dashboard Wazuh")  
-[Instalação rápida >](Instalacao_rapida.md "Instalação simplificada com todos componentes em único host")  
+[Instalação rápida >](Quickstart.md "Instalação simplificada com todos componentes em único host")  
