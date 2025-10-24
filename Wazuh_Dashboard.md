@@ -1,18 +1,16 @@
-[Índice](Indice.md)  
-___
-## Conhecendo o Wazhu.
+# Conhecendo o Wazhu
 
-### Painel Wazuh
+## Painel Wazuh
 
 O painel Wazuh é uma interface web flexível e intuitiva para visualizar, analisar e gerenciar dados de segurança. Ele permite que os usuários investiguem eventos e alertas, supervisionem a plataforma Wazuh e apliquem políticas de controle de acesso baseado em função (RBAC) e logon único (SSO).  
 
-#### Visualização e análise de dados
+### Visualização e análise de dados
 
 O painel do Wazuh permite que os usuários naveguem pelos dados de segurança coletados de dispositivos com e sem agente do Wazuh, além dos alertas gerados pelo servidor Wazuh. Ele inclui painéis para busca de ameaças, detecção de malware, monitoramento de integridade de arquivos, inventário do sistema e conformidade regulatória (por exemplo, PCI DSS, GDPR, HIPAA e NIST 800-53). Você pode gerar relatórios e criar visualizações e painéis personalizados.  
 
 ![image-data-visualization1](Images/data-visualization1.png)
 
-#### Monitoramento e configuração de agentes
+### Monitoramento e configuração de agentes
 
 O painel do Wazuh permite que os usuários gerenciem a configuração do agente e monitorem seu status. Para cada endpoint monitorado, os usuários podem definir quais módulos do agente serão habilitados, quais arquivos de log serão lidos, quais arquivos serão monitorados quanto a alterações de integridade e quais verificações de configuração serão realizadas.  
 
@@ -41,4 +39,4 @@ API do indexador Wazuh
 ![indexer-api-console1](Images/indexer-api-console1.png)  
 ___
 [< Indexador Wazuh](Wazuh_Indexer.md)  
-[Agente Wazuh >](Wazuh_Agent.md)  
+[Agente Wazuh >](Wazuh_Agent.md)
