@@ -1,8 +1,6 @@
-[Índice](Indice.md)  
-___
-# Wazuh.  
+# Wazuh
 
-## O que é o Wazuh.  
+## O que é o Wazuh
 
 O Wazuh é uma plataforma de segurança de código aberto que combina funcionalidades de SIEM (Gerenciamento de Informações e Eventos de Segurança) e XDR (Detecção e Resposta Estendida) para monitorar, detectar ameaças e ajudar na conformidade de segurança em tempo real. Ele protege infraestruturas de TI, como nuvem, containers e data centers locais, utilizando coleta de logs, detecção de intrusão, monitoramento de integridade de arquivos e análise de vulnerabilidades.  
 
@@ -35,4 +33,3 @@ Para instalar o Wazuh em sua infraestrutura, consulte as seguintes seções da n
 
 ___
 [Conhecendo o Wazuh (Componentes) >](Wazuh_Components.md)
-

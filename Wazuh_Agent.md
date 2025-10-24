@@ -1,8 +1,6 @@
-[Índice](Indice.md)  
-___
-## Conhecendo o Wazhu.
+# Conhecendo o Wazhu
 
-### Agente Wazuh
+## Agente Wazuh
 
 O agente Wazuh roda em Linux, Windows, macOS, Solaris, AIX e outros sistemas operacionais. Ele pode ser implantado em laptops, desktops, servidores, instâncias de nuvem, contêineres ou máquinas virtuais. O agente Wazuh ajuda a proteger seu sistema, fornecendo recursos de prevenção, detecção e resposta a ameaças. Ele também é usado para coletar diferentes tipos de dados do sistema e de aplicativos, que são encaminhados ao [servidor Wazuh](Wazuh_Server.md) por meio de um canal criptografado e autenticado.
 
@@ -10,7 +8,7 @@ O diagrama abaixo mostra a arquitetura e os módulos do agente.
 
 ![agent-architecture1](Images/agent-architecture1.png)
 
-#### Módulos do agente Wazuh
+### Módulos do agente Wazuh
 
 Todos os módulos do agente são configuráveis ​​e executam diferentes tarefas de segurança. Essa arquitetura modular permite que você configure cada módulo de acordo com suas necessidades de segurança. A lista a seguir resume as finalidades dos módulos do agente Wazuh.
 

@@ -1,8 +1,6 @@
-[Índice](Indice.md)  
-___
-## Conhecendo o Wazhu.
+# Conhecendo o Wazhu
 
-#### Índices do Indexador Wazuh
+## Índices do Indexador Wazuh
 
 Um índice é uma coleção de documentos relacionados entre si. O indexador Wazuh usa índices para armazenar e organizar dados de segurança para recuperação rápida. O Wazuh usa os seguintes padrões de índice para armazenar esses dados:
 

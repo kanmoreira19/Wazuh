@@ -1,8 +1,6 @@
-[Índice](Indice.md)  
-___
-## Guia de Instalação
+# Guia de Instalação
 
-### Instalação do Indexador Wazuh
+## Instalação do Indexador Wazuh
 
 O indexador Wazuh é um mecanismo de busca e análise de texto completo altamente escalável. Ele indexa e armazena alertas gerados pelo servidor Wazuh e oferece recursos de busca e análise de dados quase em tempo real. Se quiser saber mais sobre os componentes do Wazuh, consulte a seção ["Introdução"](README.md) .
 
@@ -10,11 +8,12 @@ Você pode instalar o indexador Wazuh em um único host ou distribuí-lo entre v
 
 Verifique os requisitos abaixo para começar a instalar o indexador Wazuh.
 
-#### Requisitos
+### Requisitos
 
 Verifique os sistemas operacionais suportados e os requisitos de hardware recomendados para a instalação do indexador Wazuh. Certifique-se de que o ambiente do seu sistema atenda a todos os requisitos e que você tenha privilégios de usuário root.
 
-###### Sistemas operacionais recomendados
+#### Sistemas operacionais recomendados
+
 O indexador Wazuh requer um processador Intel, AMD ou ARM Linux de 64 bits (arquitetura x86_64/AMD64 ou AARCH64/ARM64) para ser executado. O Wazuh suporta as seguintes versões de sistema operacional:
 
 * Amazon Linux 2, Amazon Linux 2023
@@ -25,7 +24,7 @@ O indexador Wazuh requer um processador Intel, AMD ou ARM Linux de 64 bits (arqu
 
 * Ubuntu 16.04, 18.04, 20.04, 22.04, 24.04
 
-###### Recomendações de hardware
+#### Recomendações de hardware
 
 Você pode instalar o indexador Wazuh como um cluster de nó único ou de vários nós.
 
