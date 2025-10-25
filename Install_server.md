@@ -5,4 +5,3 @@ Instale o servidor Wazuh como um cluster de nó único ou multinó em uma arquit
 ## Instalação do cluster do servidor Wazuh
 
 1. Baixe o assistente de instalação do Wazuh. Pule esta etapa se você instalou o indexador do Wazuh no mesmo servidor e o assistente de instalação do Wazuh já estiver no seu diretório de trabalho:
-
