@@ -26,21 +26,21 @@ A maneira mais rápida de instalar o Wazuh e colocar os componentes centrais em 
 
 2. Acesse a interface web do Wazuh com
 
-`https://<WAZUH_DASHBOARD_IP_ADDRESS>` e suas credenciais:
+    `https://<WAZUH_DASHBOARD_IP_ADDRESS>` e suas credenciais:
 
-* Nome de usuário: `admin`  
+    * Nome de usuário: `admin`  
 
-* Senha: `<ADMIN_PASSWORD>`  
+    * Senha: `<ADMIN_PASSWORD>`  
 
-Ao acessar o painel do Wazuh pela primeira vez, o navegador exibe uma mensagem de aviso informando que o certificado não foi emitido por uma autoridade confiável. Isso é esperado e o usuário tem a opção de aceitar o certificado como exceção ou, alternativamente, configurar o sistema para usar um certificado de uma autoridade confiável.
+    Ao acessar o painel do Wazuh pela primeira vez, o navegador exibe uma mensagem de aviso informando que o certificado não foi emitido por uma autoridade confiável. Isso é esperado e o usuário tem a opção de aceitar o certificado como exceção ou, alternativamente, configurar o sistema para usar um certificado de uma autoridade confiável.
 
-**Observacao:** *Você pode encontrar as senhas de todos os usuários do indexador Wazuh e da API Wazuh no* `wazuh-passwords.txt` *arquivo dentro do* `wazuh-install-files.tar`*. Para imprimi-las, execute o seguinte comando:*
+    **Observacao:** *Você pode encontrar as senhas de todos os usuários do indexador Wazuh e da API Wazuh no* `wazuh-passwords.txt` *arquivo dentro do* `wazuh-install-files.tar`*. Para imprimi-las, execute o seguinte comando:*
 
-```bash
-sudo tar -O -xvf wazuh-install-files.tar wazuh-install-files/wazuh-passwords.txt
-```
+    ```bash
+    sudo tar -O -xvf wazuh-install-files.tar wazuh-install-files/wazuh-passwords.txt
+    ```
 
-Se você quiser desinstalar os componentes centrais do Wazuh, execute o assistente de instalação do Wazuh usando a opção `-u` ou `--uninstall`.
+    Se você quiser desinstalar os componentes centrais do Wazuh, execute o assistente de instalação do Wazuh usando a opção `-u` ou `--uninstall`.
 
 ### Observação
 
